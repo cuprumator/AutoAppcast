@@ -1,2 +1,2 @@
 # AutoAppcast
-Generate AppCase xml for Sparkle protocl
+Generate AppCase xml for Sparkle protocol
